@@ -65,5 +65,6 @@ Deschide Arduino IDE
 Încarcă fișierul .ino
 Selectează placa și portul corect
 Apasă Upload
+<img width="1505" height="1035" alt="leduri" src="https://github.com/user-attachments/assets/d9cb8379-7ea4-4e00-ab8f-7f421b4623c2" />
 
 
